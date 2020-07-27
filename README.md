@@ -1,4 +1,5 @@
-# udacity_deng_proj02
+# Udacity Data Engineering Nanodegree - Project 2
+
 This is the repo for project #2 from the Udacity Data Engineering Nanodegree program
 
 
